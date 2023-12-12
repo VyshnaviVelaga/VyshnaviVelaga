@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am currently pursuing Bachelors of Technology in Computer Science. I am really interested in learning new things and solving real world problems. My skills include Object Oriented Programming, Operating Systems, Database Management and I am well versed in C, C++ and Java languages. 
 <!--
 **VyshnaviVelaga/VyshnaviVelaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
